@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/GWLjL6f/knoledg-1.jpg",
+        "title": "Fictional Novel",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/GR4q4t7/avater.jpg",
+        "reading_time": 2,
+        "hashtag": "#fiction #book #reading"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/8Dk5Skv/knowledg-2.jpg",
+        "title": "Mystery Thriller",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/GR4q4t7/avater.jpg",
+        "reading_time": 3,
+        "hashtag": "#mystery #thriller #suspense"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/kmdjsQd/knowledg-3.jpg",
+        "title": "Science Fiction Adventure",
+        "author": "A. R. Sciencer",
+        "author_img": "https://i.ibb.co/GR4q4t7/avater.jpg",
+        "reading_time": 12,
+        "hashtag": "#sciencefiction #adventure #space"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/ccfRwWc/knowledg-4.jpg",
+        "title": "Science Fiction Adventure",
+        "author": "jone holand",
+        "author_img": "https://i.ibb.co/GR4q4t7/avater.jpg",
+        "reading_time": 4,
+        "hashtag": "#sciencefiction #adventure #space"
+    }
+]
